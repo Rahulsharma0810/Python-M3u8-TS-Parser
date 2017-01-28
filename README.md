@@ -32,4 +32,28 @@ Go to Higher Resolution File, Download it and Concatenate all TS File with Base 
 
 `https://sky.vimeocdn.com/1485613457-0xffc139082a255f69d54c0603ec95bf2a55c22fae/159463108/video/499604330/segment_01.ts`
 
+`https://sky.vimeocdn.com/1485613457-0xffc139082a255f69d54c0603ec95bf2a55c22fae/159463108/video/499604330/segment_256.ts`
+
 and so on
+
+###Anatonomy 
+
+>>Create MasterPlaylist Folder Where Final Playlist will save.
+
+Downloading Master Stream Playlist as 01_Master.m3u
+
+Find Higher Resolution in 01_Master.m3u
+
+Parse Reolution and its URL to 02_Master.m3u
+
+Remove Scrap from 02_Master.m3u
+
+Download Chucks Playlist using 03_Master.m3u URL.
+
+Removing Extension and Filename From 02_Master.m3u to 04_Master.m3u
+
+Finally Concatenate URL + Chucks to MasterPlaylist/01_Master.m3u8
+
+
+
+
