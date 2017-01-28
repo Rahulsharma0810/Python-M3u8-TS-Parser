@@ -40,19 +40,19 @@ and so on
 
 >>Create MasterPlaylist Folder Where Final Playlist will save.
 
-Downloading Master Stream Playlist as 01_Master.m3u
+>>Downloading Master Stream Playlist as 01_Master.m3u
 
-Find Higher Resolution in 01_Master.m3u
+>>Find Higher Resolution in 01_Master.m3u
 
-Parse Reolution and its URL to 02_Master.m3u
+>>Parse Reolution and its URL to 02_Master.m3u
 
-Remove Scrap from 02_Master.m3u
+>>Remove Scrap from 02_Master.m3u
 
-Download Chucks Playlist using 03_Master.m3u URL.
+>>Download Chucks Playlist using 03_Master.m3u URL.
 
-Removing Extension and Filename From 02_Master.m3u to 04_Master.m3u
+>>Removing Extension and Filename From 02_Master.m3u to 04_Master.m3u
 
-Finally Concatenate URL + Chucks to MasterPlaylist/01_Master.m3u8
+>>Finally Concatenate URL + Chucks to MasterPlaylist/01_Master.m3u8
 
 
 
